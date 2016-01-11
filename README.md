@@ -3,4 +3,6 @@ Display Live cricket score and top cricket news, scores and news source from cri
 
 v1.1 made changes for cricinfo blocked system, now the system requesting for other server to get score and news feed. (sirpigal.org)
 
+Website http://laxman954.github.io/livecricketscore
+
 Wiki - https://github.com/laxman954/livecricketscore/wiki/Live-Cric-Score-&-News-For-Desktop
